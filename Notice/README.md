@@ -1,8 +1,9 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# test
-- test details
+# 공지사항
 
 {% include list.liquid %}
+
+
