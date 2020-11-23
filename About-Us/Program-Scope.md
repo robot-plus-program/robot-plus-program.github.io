@@ -48,3 +48,5 @@ https://cofs.tistory.com/124
 ## 사업대상
 - **(로봇 공급기업)** 로봇 제조기업, 로봇 SI기업
 - **(로봇 수요기업)** 로봇 및 스마트공장 도입기업
+
+   ![robot_illustration](robot_illustration.png)
