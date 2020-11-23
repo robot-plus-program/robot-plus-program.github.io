@@ -22,6 +22,8 @@ https://cofs.tistory.com/124
                <th>분야</th>
                <th>활용범위</th>
            </tr>
+       </thead>
+       <tbody>
            <tr>
                <td>제조분야</td>
                <td>
