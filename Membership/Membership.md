@@ -10,4 +10,4 @@ sort: 1
 
 
 ## [회원사 전용 홈페이지](https://robot-plus-plus.github.io/)
-- [링크](https://robot-plus-plus.github.io/)
+- [구축 진행 중](https://robot-plus-plus.github.io/)
