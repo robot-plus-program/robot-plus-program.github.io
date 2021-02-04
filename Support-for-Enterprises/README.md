@@ -2,8 +2,6 @@
 sort: 3
 ---
 
-# 공지사항
+# 기업지원
 
 {% include list.liquid %}
-
-

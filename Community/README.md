@@ -1,7 +1,9 @@
 ---
-sort: 5
+sort: 4
 ---
 
-# Membership
+# 커뮤니티
 
 {% include list.liquid %}
+
+

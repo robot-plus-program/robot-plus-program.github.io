@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# About Us
+# 사업부 소개
 
 {% include list.liquid %}

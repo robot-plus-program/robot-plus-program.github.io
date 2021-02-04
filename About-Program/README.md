@@ -1,7 +1,7 @@
 ---
-sort: 5
+sort: 2
 ---
 
-# Membership
+# 사업안내
 
 {% include list.liquid %}
