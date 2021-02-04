@@ -24,7 +24,6 @@ https://cofs.tistory.com/124
                    <ul type="dot">
                       <li>협업지능 기반 머니퓰레이터, 그리퍼, 센서 등의 연동 테스트에 적용</li>
                       <li>자동선반 기반의 단순 가공 공정 셀 구축</li>
-                      <li>터닝센터 시리즈(화천 HI-Tech 230AL, 두산공작기계 PUMA-GT2100, 현대위아 HD2200 등)</li>
                     </ul>
                 </td>
            </tr>
@@ -56,7 +55,6 @@ https://cofs.tistory.com/124
                <td>
                    <ul type="dot">
                       <li>자동선반 기반의 단순 가공 공정의 협업지능 개발 및 적용</li>
-                      <li>NVIDIA TESLA A100 등 고성능 GPU 연산 장치 포함</li>
                     </ul>
                 </td>
            </tr>
@@ -76,8 +74,6 @@ https://cofs.tistory.com/124
                <td>
                    <ul type="dot">
                       <li>협업지능 기반 머니퓰레이터, 그리퍼, 센서 등의 연동 테스트에 적용</li>
-                      <li>머시닝센터 시리즈(화천 VESTA660, D2-5AX 등, 두산공작기계 DNM650 등)</li>
-                      <li>Ethernet 및 PROFINET Interface, ROBOT Interface 지원</li>
                     </ul>
                 </td>
            </tr>
