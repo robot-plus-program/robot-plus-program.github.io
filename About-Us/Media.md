@@ -16,7 +16,7 @@ sort: 2
 
 ### 로보월드 연계 부스참가 및 사업 홍보진행 (10.28~10.31)
 
-  ![2020_Robotworld](Media/2020_Robotworld.png)
+  ![2020_Robotworld](image/2020_Robotworld.png)
 
 ### 홈페이지 개설
 - [홈페이지 링크](http://robot-plus-program.kr/)
