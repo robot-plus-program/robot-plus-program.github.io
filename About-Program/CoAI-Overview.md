@@ -42,7 +42,7 @@ https://cofs.tistory.com/124
        </thead>
        <tbody>
            <tr>
-               <td>제조분야</td>
+               <td>제조<br>분야</td>
                <td>
                    <ul type="dot">
                       <li>협업지능은 주요 제조 공정인 ①Assembly, ②Pick & Place, ③Handling, ④ Packaging & Palletizing, ⑤ Quality Testing, ⑥ Machine Tending, ⑦ Gluing & Welding 분야를 중심으로 자동차, 전기·전자, 금속제조, 식품제조 산업 등에 빠르게 도입되는 추세</li>
@@ -50,7 +50,7 @@ https://cofs.tistory.com/124
                 </td>
            </tr>
            <tr>
-               <td>서비스 분야</td>
+               <td>서비스<br>분야</td>
                <td>
                    <ul type="dot">
                       <li>상업적 목적으로 서비스를 제공하는 전문 서비스 분야와 개인이 사용하는 비상업적 목적의 개인 서비스 분야에 활용되어 편의성 증대</li>
