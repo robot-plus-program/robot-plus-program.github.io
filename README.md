@@ -3,7 +3,6 @@ title: 협업지능 기반 로봇플러스 경쟁력 지원 사업
 permalink: /
 ---
 
-[로봇플러스 공식 홈페이지](http://robot-plus-program.kr/)
 ![robot_plus_program](robot_plus_program.png)
 
 - [장비예약](/Support-for-Enterprises/Equipments-Reservation.html)

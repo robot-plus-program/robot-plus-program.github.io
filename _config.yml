@@ -8,8 +8,6 @@ header_pages:
   - About-Us/README.md
   - About-Program/README.md
   - Support-for-Enterprises/README.md
-  - Community/README.md
-  - Membership/README.md
 
 defaults:
   - scope:
