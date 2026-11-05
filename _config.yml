@@ -1,16 +1,27 @@
 title: robot-plus-program
-lang: kr
+lang: ko
 description: 협업지능기반 로봇플러스 사업
 
-remote_theme: rundocs/jekyll-rtd-theme
+theme: minima
+
+header_pages:
+  - About-Us/README.md
+  - About-Program/README.md
+  - Support-for-Enterprises/README.md
+  - Community/README.md
+  - Membership/README.md
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 
 # debug:
 #   compress: false
 #   dist: false
 #   extension: true
-
-readme_index:
-  with_frontmatter: true
 
 sass:
   style: compress
@@ -31,4 +42,3 @@ exclude:
   - package.json
   - package-lock.json
   - webpack.config.js
-  - jekyll-rtd-theme.gemspec
